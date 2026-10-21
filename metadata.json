@@ -1,0 +1,11 @@
+{
+  "name": "Remix Atreya Facial Screening Kiosk",
+  "description": "Production-quality, kiosk-friendly full-stack web application for diabetes-related facial screening programme with multi-angle camera capture, patient form, speech input, consent, and Google Sheets \u0026 Drive integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
